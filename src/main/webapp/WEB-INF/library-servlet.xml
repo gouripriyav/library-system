@@ -51,7 +51,7 @@
 		<property name="dataSource" ref="dataSource" />
 		<property name="packagesToScan">
 			<list>
-				<value>com.bellinfo.faculty.model</value>
+				<value>com.bellinfo.library.model</value>
 			</list>
 		</property>
 		<property name="hibernateProperties">
